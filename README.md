@@ -8,8 +8,6 @@
 
 🙏 Credits: @Romgharti for device/kernel sources and all help.
 
-⬇️ Downloads
+⬇️ Downloads Count ![Downloads](https://img.shields.io/github/downloads/Sachinpawar86/lunaris-mojito/total)
 
-![Downloads](https://img.shields.io/github/downloads/Sachinpawar86/lunaris-mojito/total)
-
-Download latest build from releases page.
+😋 Download latest build from releases page.
