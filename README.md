@@ -8,8 +8,6 @@
 
 🙏 Credits: @Romgharti for device/kernel sources and all help.
 
-![Downloads](https://img.shields.io/github/downloads/Sachinpawar86/lunaris-mojito/total)
-
 😋 Download latest build from releases page.
 
 ![Android](https://img.shields.io/badge/Android-16-green?logo=android)
