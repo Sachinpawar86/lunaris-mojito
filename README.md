@@ -11,3 +11,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Sachinpawar86/lunaris-mojito/total)
 
 😋 Download latest build from releases page.
+
+![Android](https://img.shields.io/badge/Android-16-green?logo=android)
+![Device](https://img.shields.io/badge/Device-Mojito%2FSunny-blue)
+![Downloads](https://img.shields.io/github/downloads/Sachinpawar86/lunaris-mojito/total?style=for-the-badge&logo=android)
